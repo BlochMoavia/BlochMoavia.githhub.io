@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BLOCH MOAVIA</title>
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #10111b;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background: #22223b;
+    padding: 25px;
+}
+
+header h1 {
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+.hero {
+    padding: 70px 20px;
+}
+
+.hero h2 {
+    color: #22d3c5;
+    font-size: 38px;
+}
+
+.hero p {
+    color: #ccc;
+    line-height: 1.8;
+}
+
+.tag {
+    color: #ff477e;
+    font-weight: bold;
+}
+
+.button {
+    display: inline-block;
+    background: #ff477e;
+    color: white;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.section {
+    padding: 35px 20px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.card {
+    background: #24263a;
+    padding: 25px;
+    border-radius: 15px;
+    width: 250px;
+}
+
+footer {
+    background: #22223b;
+    padding: 25px;
+    color: #ccc;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>BLOCH MOAVIA</h1>
+    <p>Official Creator Website</p>
+</header>
+
+<section class="hero">
+
+    <p class="tag">
+        TIKTOK CONTENT CREATOR | VLOGGER
+    </p>
+
+    <h2>BLOCH MOAVIA</h2>
+
+    <p>Welcome to My Official Website!</p>
+
+    <p>
+        Sharing my moments, creativity
+        and everyday life with the world.
+    </p>
+
+    <a class="button"
+       href="https://www.tiktok.com/@blochmovia"
+       target="_blank">
+       Visit My TikTok
+    </a>
+
+</section>
+
+<section class="section">
+
+    <h2>Explore My Content</h2>
+
+    <div class="cards">
+
+        <div class="card">
+            <h3>🎥 Vlogs</h3>
+            <p>My daily life and experiences.</p>
+        </div>
+
+        <div class="card">
+            <h3>✨ Creative Videos</h3>
+            <p>My creative videos and edits.</p>
+        </div>
+
+        <div class="card">
+            <h3>🌍 More Content</h3>
+            <p>New topics and interesting moments.</p>
+        </div>
+
+    </div>
+
+</section>
+
+<section class="section">
+
+    <h2>About Me</h2>
+
+    <p>
+        I am Bloch Moavia,
+        a TikTok Content Creator and Vlogger.
+        Thank you for visiting my website!
+    </p>
+
+</section>
+
+<footer>
+
+    <p>Follow me on TikTok</p>
+
+    <a href="https://www.tiktok.com/@blochmovia"
+       target="_blank">
+       @blochmovia
+    </a>
+
+    <p>© 2026 BLOCH MOAVIA</p>
+
+</footer>
+
+</body>
+</html>
